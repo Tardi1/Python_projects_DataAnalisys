@@ -1,0 +1,4 @@
+2025-11-12 07:32:31,295 - 2GIS_API.region - INFO - Started
+2025-11-12 07:32:32,590 - 2GIS_API.region - INFO - Determined region_id for city Москва : 32 
+2025-11-12 07:32:33,440 - 2GIS_API.region - INFO - Determined bar_id: 159
+2025-11-12 07:32:33,441 - 2GIS_API.region - INFO - Finished
